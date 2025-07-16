@@ -89,7 +89,7 @@ CODE_QUALITY_DIMENSIONS = {
 
 
 class CodeQuestTemplate:
-    role: str = "You are a helpful nad harmless AI software engineer. You must provide an answer to the following request. Be brief and precise."
+    role: str = "You are a helpful and harmless AI software engineer. You must provide an answer to the following request. Be brief and precise."
 
     instruct: str = ""
 
